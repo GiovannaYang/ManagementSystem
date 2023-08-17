@@ -15,6 +15,7 @@
 ## 开发环境
 
 - MySQL 8.0
+  
 - GoLand 2022.3.4
 
 - Node.js  18.15.0
@@ -53,6 +54,7 @@
 4. 前端项目文件夹下打开命令行，输入
 
    ```shell
+   yarn install
    yarn serve
    ```
 
